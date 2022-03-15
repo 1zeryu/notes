@@ -30,3 +30,7 @@ a = map(lambda x: x+1,a)
 a = filter(lambda x: x%2==0,a)
 ```
 
+## format格式化输出方法
+
+https://www.cnblogs.com/lovejh/p/9201219.html
+
